@@ -17,6 +17,7 @@ There are a number of basic operations that can be applied to modify matrices:
 * [Scalar Multiplication](https://en.wikipedia.org/wiki/Scalar_multiplication)
 * [Transposition](https://en.wikipedia.org/wiki/Transpose)
 * [Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+* [Invertible Matrix](https://en.wikipedia.org/wiki/Invertible_matrix)
 
 
 ## 2_ Hash function, binary tree, O(n)
