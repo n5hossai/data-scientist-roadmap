@@ -38,8 +38,7 @@ A hash function is __any function that can be used to map data of arbitrary size
 
 In computer science, a binary tree is __a tree data structure in which each node has at most two children__, which are referred to as the left child and the right child.
 
-![binary-tree-image](https://upload.wikimedia.org/wikipedia/commons/f/f7/Binary_tree.svg)
-[Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
+* [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
 
 ### O(n)
 
