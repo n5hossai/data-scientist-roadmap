@@ -28,6 +28,8 @@ There are a number of basic operations that can be applied to modify matrices:
 
 A hash function is __any function that can be used to map data of arbitrary size to data of fixed size__. One use is a data structure called a hash table, widely used in computer software for rapid data lookup. Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
 
+[HackerRank Hash Tables tutorial](https://www.youtube.com/watch?v=shs0KM3wKv8)
+
 ![hash-image](https://upload.wikimedia.org/wikipedia/commons/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg)
 
 ### Binary tree
